@@ -18,9 +18,9 @@ preparação e mineração dos dados, análise estatística, análise descritiva
 <br>
 👯 Posso te ajudar com Python, Django e/ou Flask.
 <br>
-💻 Minha stack é Python.
+😊 Estou aberto a novas oportunidades. 
 <br>
-😊 
+💻 Minha stack é Python.
 <br>
 <br>
 ## ⚡ Metas para 2021 
