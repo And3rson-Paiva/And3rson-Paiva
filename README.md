@@ -30,7 +30,6 @@ preparação e mineração dos dados, análise estatística, análise descritiva
 <br>
 <br>
 ## ⚡ Metas para 2021 
-
 - [x] Criar um negócio digital 
 - [ ] Estudar mais sobre dados
 <!--
