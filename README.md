@@ -16,20 +16,16 @@ preparação e mineração dos dados, análise estatística, análise descritiva
 <br>
 💜 Buscando colaborar com projetos que buscam melhorar o mundo.
 <br>
-<br>
 👯 Posso te ajudar com Python, Django e/ou Flask.
 <br>
-<br>
 💻 Minha stack é Python.
-<br>
 <br>
 😊 
 <br>
 <br>
 ## ⚡ Metas para 2021 
-
--[x] 
--[ ]
+- [x] Criar um negócio digital 
+- [ ] Estudar mais sobre dados
 <!--
 **And3rson-Paiva/And3rson-Paiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
