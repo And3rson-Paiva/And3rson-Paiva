@@ -1,8 +1,8 @@
 # Olá eu sou o Anderson Paiva 👋
 
 <a href="https://and3rson-paiva.github.io/"><img alt="site" width="22px" src="https://github.com/And3rson-Paiva/And3rson-Paiva/blob/main/assets/worldwide.svg"></a>&nbsp;
-<a href="https://linkedin.com/in/anderson-paiva"><img alt="site" width="22px" src="https://github.com/And3rson-Paiva/And3rson-Paiva/blob/main/assets/052-linkedin.svg"></a>&nbsp;
-<a href="mailto:and3rsonpaiva@gmail.com"><img alt="site" width="22px" src="https://github.com/And3rson-Paiva/And3rson-Paiva/blob/main/assets/gmail.png"></a>
+<a href="https://linkedin.com/in/anderson-paiva"><img alt="Linkedin" width="22px" src="https://github.com/And3rson-Paiva/And3rson-Paiva/blob/main/assets/052-linkedin.svg"></a>&nbsp;
+<a href="mailto:and3rsonpaiva@gmail.com"><img alt="Email" width="22px" src="https://github.com/And3rson-Paiva/And3rson-Paiva/blob/main/assets/gmail.png"></a>
 
 💬 Um pouco sobre mim, profissional na linguagem Python e nas suas principais bibliotecas para manipulação, processamento e limpeza de dados para análises com Pandas, Scikit-learn, NumPy, Matplotlib (visualização de dados), SQL e R. 
 <br>
@@ -20,7 +20,10 @@ preparação e mineração dos dados, análise estatística, análise descritiva
 <br>
 😊 Estou aberto a novas oportunidades. 
 <br>
-💻 Minha stack é Python.
+<br>
+## 💻 Minha stack são:
+<img alt="Python" width="25px" src="https://github.com/And3rson-Paiva/And3rson-Paiva/blob/main/assets/python.svg"> &nbsp; <img alt="MySQL" width="25px" src="https://github.com/And3rson-Paiva/And3rson-Paiva/blob/main/assets/mysql.svg"> &nbsp; <img alt="Flask" width="25px" src="https://github.com/And3rson-Paiva/And3rson-Paiva/blob/main/assets/flask.svg"> 
+
 <br>
 <br>
 ## ⚡ Metas para 2021 
