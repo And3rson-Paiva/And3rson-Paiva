@@ -1,5 +1,5 @@
 ### Olá eu sou o Anderson Paiva 👋
-
+<a href="https://and3rson-paiva.github.io/"><img alt="site" width="22px" src="https://github.com/And3rson-Paiva/And3rson-Paiva/blob/main/assets/worldwide.svg"></a>
 <!--
 **And3rson-Paiva/And3rson-Paiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
