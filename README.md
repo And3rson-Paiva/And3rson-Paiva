@@ -27,8 +27,8 @@ preparação e mineração dos dados, análise estatística, análise descritiva
 |<p align= "center">
 <img alt="Python" width="25px" src="https://github.com/And3rson-Paiva/And3rson-Paiva/blob/main/assets/python.svg"> &nbsp; <img alt="R Language" width="25px" src="https://github.com/And3rson-Paiva/And3rson-Paiva/blob/main/assets/R_logo.svg.png"> &nbsp; <img alt="Django" width="25px" src="https://github.com/And3rson-Paiva/And3rson-Paiva/blob/main/assets/4aGjtNQv.png"> &nbsp; <img alt="Flask" width="25px" src="https://github.com/And3rson-Paiva/And3rson-Paiva/blob/main/assets/flask.svg"> &nbsp; <img alt="Jupyter" width="25px" src="https://github.com/And3rson-Paiva/And3rson-Paiva/blob/main/assets/1200px-Jupyter_logo.svg.png"> &nbsp; <img alt="HTML5" width="25px" src="https://github.com/And3rson-Paiva/And3rson-Paiva/blob/main/assets/html5.svg"> &nbsp; <img alt="CSS3" width="25px" src="https://github.com/And3rson-Paiva/And3rson-Paiva/blob/main/assets/css3.svg"> &nbsp; <img alt="CSS3" width="25px" src="https://github.com/And3rson-Paiva/And3rson-Paiva/blob/main/assets/javascript.svg"> &nbsp; <img alt="Visual Studio" width="25px" src="https://github.com/And3rson-Paiva/And3rson-Paiva/blob/main/assets/visual-studio-code.png">  &nbsp; <img alt="MySQL" width="25px" src="https://github.com/And3rson-Paiva/And3rson-Paiva/blob/main/assets/mysql.svg">| Spark, Hadoop | Angular.JS |
 </p>  
-<br>
-<br>
+</br>
+</br>
 ## ⚡ Metas para 2021 
 - [x] Criar um negócio digital 
 - [ ] Estudar mais sobre dados
