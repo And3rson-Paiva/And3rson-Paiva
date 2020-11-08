@@ -26,9 +26,10 @@ preparação e mineração dos dados, análise estatística, análise descritiva
 😊 
 <br>
 <br>
-⚡ ## Metas para 2021 
+## ⚡ Metas para 2021 
+
 -[x] 
--[]
+-[ ]
 <!--
 **And3rson-Paiva/And3rson-Paiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
