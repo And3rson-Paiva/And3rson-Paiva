@@ -25,9 +25,9 @@ preparação e mineração dos dados, análise estatística, análise descritiva
 <img alt="CSS3" width="25px" src="https://github.com/And3rson-Paiva/And3rson-Paiva/blob/main/assets/bootstrap.svg"> &nbsp; 
 <br>
 <br>
-## ⚡ Metas para 2021: 
+## ⚡ Metas para 2023: 
 - [x] Criar um negócio digital 
-- [ ] Estudar mais sobre dados
+- [x] Estudar mais sobre dados
 <!--
 **And3rson-Paiva/And3rson-Paiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
