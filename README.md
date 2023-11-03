@@ -25,9 +25,7 @@ preparação e mineração dos dados, análise estatística, análise descritiva
 <img alt="CSS3" width="25px" src="https://github.com/And3rson-Paiva/And3rson-Paiva/blob/main/assets/bootstrap.svg"> &nbsp; 
 <br>
 <br>
-## ⚡ Metas para 2024: 
-- [ ]  
-- [ ] 
+
 <!--
 **And3rson-Paiva/And3rson-Paiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
